@@ -4,9 +4,11 @@
 
 ##### Description of Files and Folder in this project:
 
-###### datasets: contains the datasets provided by Kaggle - train.csv (for training our ML model), test.csv (data to predict against), gender_submission.csv (final submission format)
+###### Datasets: contains the datasets provided by Kaggle - train.csv (for training our ML model), test.csv (data to predict against), gender_submission.csv (final submission format)
 
-###### 
+###### Titanic_v1.1.ipynb: Jupyter notebook in which we perform Exploratory Data Analysis, Data Visualization, ML Model Building & Training, Predictions, and generate the Final Submission CSV
+
+
 
 
 
